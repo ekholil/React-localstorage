@@ -1,0 +1,27 @@
+.header{
+    background-color: violet;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
+.menu{
+    background-color:rosybrown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu a{
+    color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+.menu a:hover{
+    background-color: violet;
+}
+.menu input{
+    width: 250px;
+    padding: 5px;
+    font-size: 1.1rem;
+}
